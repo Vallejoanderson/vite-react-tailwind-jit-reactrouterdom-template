@@ -1,4 +1,4 @@
-# Vite + ReactJs + TailwindCss in JIT Template
+# Vite + ReactJs + React Router Dom +TailwindCss in JIT Template
 
 **Update: TailwindCSS v3 came out, and it uses JIT compiler by default. The config file and the package.json has been updated accordingly.**
 
